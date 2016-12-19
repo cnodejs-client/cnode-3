@@ -12,7 +12,9 @@
 ## 运用的技术主要有:
 - 采用react技术栈，通过Redux来管理页面状态，通过Router来设置页面路由
 - 组件选用的是Material-UI，不再自己造轮子，既美观又能方便触控操作
-- 应用`isomorpfic-fetch`库代替`XMLHttpRequest`实现网络请求
+- 使用react-flip-move插件来实现list的加载动画
+- 修改react-pullrefresh插件，实现了首页上拉刷新效果
+- 应用`isomorphic-fetch`库代替`XMLHttpRequest`实现网络请求
 - 使用`PostCSS`对CSS进行预处理
 - 通过`CSSModules`处理模块内部的类名
 
