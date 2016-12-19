@@ -1,6 +1,6 @@
 ## 项目简介
 一个WebApp版的cnode客户端，项目采用react技术栈构建。组件选用的是Material-UI，让界面更适合触控操作。
-- 感谢[cnodejs论坛](https://cnodejs.org/)官方提供的api!
+- 感谢来自[cnodejs论坛](https://cnodejs.org/)官方提供的api!
 
 ## 功能
 - 首页列表，下拉时自动加载下一页，在顶端上拉刷新。
